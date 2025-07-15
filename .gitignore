@@ -1,0 +1,25 @@
+# Logs
+*.log
+log/
+logs/
+
+# Backup files
+*.bak
+*.tmp
+*~
+~*
+
+# OS generated files
+.DS_Store
+.localized
+.Trashes
+
+# Compiled Ruby files (if any)
+*.rbc
+
+# Editor specific files
+.idea/
+.vscode/
+
+# pg_badger output (if generated in project dir)
+*.html
